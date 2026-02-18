@@ -3,29 +3,3 @@
     box-sizing: border-box;
 }
 
-ul {
-    display: flex;
-
-}
-
-ul li {
-    padding: 4px 4px;
-}
-
-h1 {
-    width: 100px;
-    overflow: hidden;
-}
-
-.box {
-    position: absolute;
-    width: 100px;
-    height: 100px;
-    border: 1px solid red;
-    /* background-color: peru; */
-    top: 250px;
-    left: 50%;
-
-
-    box-sizing: border-box;
-}
