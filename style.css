@@ -3,3 +3,8 @@
     box-sizing: border-box;
 }
 
+
+/* delete later */
+article {
+    outline: 1px solid palevioletred;
+}
