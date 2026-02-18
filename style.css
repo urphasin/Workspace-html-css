@@ -5,6 +5,10 @@
 
 
 /* delete later */
+h1 {
+    text-align: center;
+}
+
 article {
     outline: 1px solid palevioletred;
 }
