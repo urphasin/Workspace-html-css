@@ -1,0 +1,23 @@
+/* reset */
+*, *:before, *:after {
+    box-sizing: border-box;
+}
+
+
+/* delete later */
+h1 {
+    text-align: center;
+}
+
+.navbar {
+    background: black;
+    padding: 1rem 2rem;
+}
+
+.nav-list {
+    list-style: none;
+    display: flex;
+    gap: 2rem;
+    /*margin: 0;*/
+    /*padding: 0;*/
+}
