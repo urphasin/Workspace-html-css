@@ -1,3 +1,7 @@
+:root {
+    --boxColor: #0ff7;
+}
+
 /* reset */
 *, *:before, *:after {
     box-sizing: border-box;
@@ -30,4 +34,33 @@ h1 {
     &:hover {
         opacity: 0.7;
     }
+}
+
+
+/*SCENE*/
+
+
+body {
+    background-color: #000;
+    min-height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 50px;
+}
+
+
+.scene {
+    position: relative;
+}
+
+.ball {
+    width: 1em;
+    height: 1em;
+    border-radius: 50%;
+    background: lightblue;
+}
+
+.box {
+
 }
